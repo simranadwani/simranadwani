@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simranadwani
 - 🌱 I’m currently learning Bsc Economics and Analytics
-      I'm inetrested in managing projects.
+      I'm interested in managing projects.
 - 📫 How to reach me simran.adwani@ecoa.christuniversity.in
 
 <!---
